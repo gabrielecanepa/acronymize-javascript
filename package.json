@@ -1,10 +1,8 @@
 {
   "name": "javascript-101",
   "version": "1.0.0",
-  "description": "Starting code for First JavaScript ES6 lecture",
-  "main": "index.js",
-  "repository": "https://github.com/lewagon/javascript-101",
-  "author": "ssaunier",
+  "repository": "https://github.com/gabrielecanepa/acronymize-javascript",
+  "author": "gabrielecanepa",
   "license": "MIT",
   "dependencies": {
     "webpack": "^4.8.1",

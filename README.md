@@ -4,7 +4,7 @@ First clone this repository to your laptop. You must have Node (> v4) and [yarn]
 
 ```bash
 cd ~/code/<your_github_nickname>
-git clone git@github.com:lewagon/webpack-boilerplate.git my-js-project
+git clone git@github.com:gabrielecanepa/webpack-boilerplate.git my-js-project
 cd my-js-project
 rm -rf .git
 yarn install
@@ -21,7 +21,7 @@ webpack-dev-server
 Once a file has been updated in Sublime, you can run it with:
 
 ```bash
-node lib/01_types.js
+node lib/acronymize.js
 ```
 
 ## How was this repo generated?

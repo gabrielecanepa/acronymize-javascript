@@ -1,1 +1,1 @@
-console.log("Hello from src/browser.js");
+import acronymizeSentence from '../lib/acronymize';
